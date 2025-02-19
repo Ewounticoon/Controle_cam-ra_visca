@@ -1,0 +1,8 @@
+C:/Users/eweng/Documents/Camera/Camera/Build Arduino/CMakeFiles/mega_CORE.dir
+C:/Users/eweng/Documents/Camera/Camera/Build Arduino/CMakeFiles/Camera.dir
+C:/Users/eweng/Documents/Camera/Camera/Build Arduino/CMakeFiles/Camera-size.dir
+C:/Users/eweng/Documents/Camera/Camera/Build Arduino/CMakeFiles/Camera-upload.dir
+C:/Users/eweng/Documents/Camera/Camera/Build Arduino/CMakeFiles/upload.dir
+C:/Users/eweng/Documents/Camera/Camera/Build Arduino/CMakeFiles/Camera-serial.dir
+C:/Users/eweng/Documents/Camera/Camera/Build Arduino/CMakeFiles/edit_cache.dir
+C:/Users/eweng/Documents/Camera/Camera/Build Arduino/CMakeFiles/rebuild_cache.dir

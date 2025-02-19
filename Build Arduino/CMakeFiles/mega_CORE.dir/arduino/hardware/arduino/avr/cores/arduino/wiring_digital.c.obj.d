@@ -1,0 +1,27 @@
+CMakeFiles/mega_CORE.dir/arduino/hardware/arduino/avr/cores/arduino/wiring_digital.c.obj: \
+ C:/Users/eweng/Documents/Camera/Camera/arduino/hardware/arduino/avr/cores/arduino/wiring_digital.c \
+ C:/Users/eweng/Documents/Camera/Camera/arduino/hardware/arduino/avr/cores/arduino/wiring_private.h \
+ c:\users\eweng\documents\camera\camera\arduino\hardware\tools\avr\avr\include\avr\io.h \
+ c:\users\eweng\documents\camera\camera\arduino\hardware\tools\avr\avr\include\avr\sfr_defs.h \
+ c:\users\eweng\documents\camera\camera\arduino\hardware\tools\avr\avr\include\inttypes.h \
+ c:\users\eweng\documents\camera\camera\arduino\hardware\tools\avr\lib\gcc\avr\7.3.0\include\stdint.h \
+ c:\users\eweng\documents\camera\camera\arduino\hardware\tools\avr\avr\include\stdint.h \
+ c:\users\eweng\documents\camera\camera\arduino\hardware\tools\avr\avr\include\avr\iom2560.h \
+ c:\users\eweng\documents\camera\camera\arduino\hardware\tools\avr\avr\include\avr\iomxx0_1.h \
+ c:\users\eweng\documents\camera\camera\arduino\hardware\tools\avr\avr\include\avr\portpins.h \
+ c:\users\eweng\documents\camera\camera\arduino\hardware\tools\avr\avr\include\avr\common.h \
+ c:\users\eweng\documents\camera\camera\arduino\hardware\tools\avr\avr\include\avr\version.h \
+ c:\users\eweng\documents\camera\camera\arduino\hardware\tools\avr\avr\include\avr\fuse.h \
+ c:\users\eweng\documents\camera\camera\arduino\hardware\tools\avr\avr\include\avr\lock.h \
+ c:\users\eweng\documents\camera\camera\arduino\hardware\tools\avr\avr\include\avr\interrupt.h \
+ c:\users\eweng\documents\camera\camera\arduino\hardware\tools\avr\avr\include\stdio.h \
+ c:\users\eweng\documents\camera\camera\arduino\hardware\tools\avr\lib\gcc\avr\7.3.0\include\stdarg.h \
+ c:\users\eweng\documents\camera\camera\arduino\hardware\tools\avr\lib\gcc\avr\7.3.0\include\stddef.h \
+ C:/Users/eweng/Documents/Camera/Camera/arduino/hardware/arduino/avr/cores/arduino/Arduino.h \
+ c:\users\eweng\documents\camera\camera\arduino\hardware\tools\avr\avr\include\stdlib.h \
+ c:\users\eweng\documents\camera\camera\arduino\hardware\tools\avr\lib\gcc\avr\7.3.0\include\stdbool.h \
+ c:\users\eweng\documents\camera\camera\arduino\hardware\tools\avr\avr\include\string.h \
+ c:\users\eweng\documents\camera\camera\arduino\hardware\tools\avr\avr\include\math.h \
+ c:\users\eweng\documents\camera\camera\arduino\hardware\tools\avr\avr\include\avr\pgmspace.h \
+ C:/Users/eweng/Documents/Camera/Camera/arduino/hardware/arduino/avr/cores/arduino/binary.h \
+ C:/Users/eweng/Documents/Camera/Camera/arduino/hardware/arduino/avr/variants/mega/pins_arduino.h

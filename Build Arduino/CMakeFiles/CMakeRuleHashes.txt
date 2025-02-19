@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+00f0fc9d78f480bb5644c8ecff645859 CMakeFiles/Camera-serial
+5e814dfe5f3076f510f6f700a632f005 CMakeFiles/Camera-size
+d318ebd6b5538d34c2b2ec82ea5527d2 CMakeFiles/Camera-upload

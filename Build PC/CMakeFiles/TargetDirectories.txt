@@ -1,0 +1,3 @@
+C:/Users/eweng/Documents/Camera/Camera/Build PC/CMakeFiles/Camera.dir
+C:/Users/eweng/Documents/Camera/Camera/Build PC/CMakeFiles/edit_cache.dir
+C:/Users/eweng/Documents/Camera/Camera/Build PC/CMakeFiles/rebuild_cache.dir
